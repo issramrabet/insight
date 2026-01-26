@@ -1,0 +1,2 @@
+Insight is a context-aware product discovery engine that uses vector search to recommend products based on user intent and personal constraints.
+The project uses Qdrant for similarity search and pretrained embedding models for multimodal understanding.
