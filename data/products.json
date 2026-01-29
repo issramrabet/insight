@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "name": "Running Shoes",
+    "description": "Lightweight running shoes designed for daily jogging and training",
+    "price": 120,
+    "category": "sports"
+  },
+  {
+    "id": 2,
+    "name": "Basketball Shoes",
+    "description": "High-ankle basketball shoes with strong grip and ankle support",
+    "price": 180,
+    "category": "sports"
+  },
+  {
+    "id": 3,
+    "name": "Casual Sneakers",
+    "description": "Comfortable casual sneakers for everyday wear",
+    "price": 90,
+    "category": "casual"
+  },
+  {
+    "id": 4,
+    "name": "Formal Leather Shoes",
+    "description": "Elegant formal leather shoes suitable for office and events",
+    "price": 150,
+    "category": "formal"
+  },
+  {
+    "id": 5,
+    "name": "Hiking Boots",
+    "description": "Durable hiking boots with waterproof features and strong soles",
+    "price": 200,
+    "category": "outdoor"
+  },
+  {
+    "id": 6,
+    "name": "Sandals",
+    "description": "Lightweight and breathable sandals for summer wear",
+    "price": 60,
+    "category": "casual"
+  },
+  {
+    "id": 7,
+    "name": "Soccer Cleats",
+    "description": "High-performance soccer cleats for optimal traction on the field",
+    "price": 130,
+    "category": "sports"
+  },
+  {
+    "id": 8,
+    "name": "Winter Boots",
+    "description": "Insulated winter boots to keep your feet warm in cold weather",
+    "price": 170,
+    "category": "outdoor"
+  },
+  {
+    "id": 9,
+    "name": "Slip-On Loafers",
+    "description": "Stylish slip-on loafers for casual and semi-formal occasions",
+    "price": 110,
+    "category": "casual"
+  },
+  {
+    "id": 10,
+    "name": "Trail Running Shoes",
+    "description": "Rugged trail running shoes designed for off-road terrain",
+    "price": 140,
+    "category": "sports"
+  },
+  {
+    "id": 11,
+    "name": "Dress Oxfords",
+    "description": "Classic dress oxfords made from premium leather",
+    "price": 160,
+    "category": "formal"
+  },
+  {
+    "id": 12,
+    "name": "Flip Flops",
+    "description": "Comfortable flip flops perfect for beach and casual outings",
+    "price": 30,
+    "category": "casual"
+  },
+  {
+    "id": 13,
+    "name": "Climbing Shoes",
+    "description": "Specialized climbing shoes for rock climbing and bouldering",
+    "price": 190,
+    "category": "outdoor"
+  },
+  {
+    "id": 14,
+    "name": "Tennis Shoes",
+    "description": "Lightweight tennis shoes designed for agility and support on the court",
+    "price": 125,
+    "category": "sports"
+  },
+  {
+    "id": 15,
+    "name": "Boat Shoes",
+    "description": "Classic boat shoes with non-slip soles for nautical activities",
+    "price": 115,
+    "category": "casual"
+  },
+  {
+    "id": 16,
+    "name": "Chukka Boots",
+    "description": "Versatile chukka boots suitable for both casual and semi-formal wear",
+    "price": 135,
+    "category": "casual"
+  },
+  {
+    "id": 17,
+    "name": "Golf Shoes",
+    "description": "Comfortable golf shoes with spikes for better traction on the course",
+    "price": 145,
+    "category": "sports"
+  },
+  {
+    "id": 18,
+    "name": "Work Boots",
+    "description": "Sturdy work boots with steel toes for safety in tough environments",
+    "price": 210,
+    "category": "outdoor"
+  },
+  {
+    "id": 19,
+    "name": "Espadrilles",
+    "description": "Lightweight espadrilles perfect for summer and casual outings",
+    "price": 70,
+    "category": "casual"
+  },
+  {
+    "id": 20,
+    "name": "Dress Loafers",
+    "description": "Sophisticated dress loafers made from high-quality leather",
+    "price": 155,
+    "category": "formal"
+  }
+
+]
