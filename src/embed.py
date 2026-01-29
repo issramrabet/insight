@@ -1,4 +1,5 @@
 import json
+import os
 from sentence_transformers import SentenceTransformer as st
 import numpy as np
 from qdrant_client import QdrantClient as qc
@@ -9,7 +10,8 @@ f.close()
 model=st("all-MiniLM-L6-v2")
 client=qc(
     url="https://1d32ce5a-6976-4b02-9c2c-92a667ac0abd.europe-west3-0.gcp.cloud.qdrant.io",
-    api_key="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.X-hpyRvPwRFVwpD_ziBw4ZgCwNjgWg10NzlukJNW8Rg"
+    api_key=os.getenv("k"),
+    timeout=60 
 )
 if client.collection_exists(collection_name="products"):
     client.delete_collection(collection_name="products")
@@ -33,7 +35,8 @@ for p in products:
     )
 client.upsert(
     collection_name="products",
-    points=pts
+    points=pts,
+    wait=True
 )
 command=input("Enter search command: ")
 qv=model.encode(command,normalize_embeddings=True).tolist()
@@ -44,6 +47,11 @@ results=client.query_points(
 ).points
 for r in results:
     print(r.payload["name"],r.score)
+    
+    
+
+
+
     
     
 
