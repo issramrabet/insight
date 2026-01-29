@@ -138,6 +138,708 @@
     "description": "Sophisticated dress loafers made from high-quality leather",
     "price": 155,
     "category": "formal"
+  },
+  {
+    "id": 21,
+    "name": "Wireless Gaming Mouse",
+    "description": "Ergonomic gaming mouse with RGB lighting and programmable buttons",
+    "price": 45,
+    "category": "electronics"
+  },
+  {
+    "id": 22,
+    "name": "Stainless Steel Water Bottle",
+    "description": "Insulated 32oz water bottle keeps drinks cold for 24 hours",
+    "price": 28,
+    "category": "sports"
+  },
+  {
+    "id": 23,
+    "name": "Yoga Mat",
+    "description": "Non-slip eco-friendly yoga mat with extra cushioning",
+    "price": 35,
+    "category": "fitness"
+  },
+  {
+    "id": 24,
+    "name": "Coffee Maker",
+    "description": "Programmable 12-cup drip coffee maker with thermal carafe",
+    "price": 89,
+    "category": "kitchen"
+  },
+  {
+    "id": 25,
+    "name": "LED Desk Lamp",
+    "description": "Adjustable brightness desk lamp with USB charging port",
+    "price": 42,
+    "category": "home"
+  },
+  {
+    "id": 26,
+    "name": "Bluetooth Speaker",
+    "description": "Portable waterproof speaker with 20-hour battery life",
+    "price": 65,
+    "category": "electronics"
+  },
+  {
+    "id": 27,
+    "name": "Cookbook Collection",
+    "description": "Set of 3 bestselling cookbooks for international cuisine",
+    "price": 55,
+    "category": "books"
+  },
+  {
+    "id": 28,
+    "name": "Electric Toothbrush",
+    "description": "Rechargeable sonic toothbrush with 5 cleaning modes",
+    "price": 79,
+    "category": "health"
+  },
+  {
+    "id": 29,
+    "name": "Backpack",
+    "description": "Durable laptop backpack with USB charging port and anti-theft design",
+    "price": 48,
+    "category": "accessories"
+  },
+  {
+    "id": 30,
+    "name": "Resistance Bands Set",
+    "description": "Exercise resistance bands with 5 different strength levels",
+    "price": 25,
+    "category": "fitness"
+  },
+  {
+    "id": 31,
+    "name": "Houseplant Bundle",
+    "description": "Collection of 3 easy-care indoor plants in decorative pots",
+    "price": 38,
+    "category": "home"
+  },
+  {
+    "id": 32,
+    "name": "Wireless Earbuds",
+    "description": "Noise-cancelling earbuds with charging case and 24-hour playtime",
+    "price": 95,
+    "category": "electronics"
+  },
+  {
+    "id": 33,
+    "name": "Protein Powder",
+    "description": "Whey protein isolate with chocolate flavor, 2lb container",
+    "price": 52,
+    "category": "health"
+  },
+  {
+    "id": 34,
+    "name": "Cast Iron Skillet",
+    "description": "Pre-seasoned 12-inch cast iron skillet for cooking and baking",
+    "price": 44,
+    "category": "kitchen"
+  },
+  {
+    "id": 35,
+    "name": "Board Game",
+    "description": "Strategy board game for 2-6 players with expansion pack",
+    "price": 58,
+    "category": "toys"
+  },
+  {
+    "id": 36,
+    "name": "Sunglasses",
+    "description": "Polarized UV protection sunglasses with metal frame",
+    "price": 68,
+    "category": "accessories"
+  },
+  {
+    "id": 37,
+    "name": "Dog Bed",
+    "description": "Orthopedic memory foam dog bed with washable cover",
+    "price": 75,
+    "category": "pets"
+  },
+  {
+    "id": 38,
+    "name": "Journal Set",
+    "description": "Leather-bound journal with dotted pages and pen holder",
+    "price": 32,
+    "category": "stationery"
+  },
+  {
+    "id": 39,
+    "name": "Essential Oil Diffuser",
+    "description": "Ultrasonic aromatherapy diffuser with color-changing LED lights",
+    "price": 36,
+    "category": "home"
+  },
+  {
+    "id": 40,
+    "name": "Dumbbell Set",
+    "description": "Adjustable dumbbells with weight range from 5 to 25 pounds",
+    "price": 120,
+    "category": "fitness"
+  },
+  {
+    "id": 41,
+    "name": "Phone Case",
+    "description": "Shockproof protective phone case with card holder slot",
+    "price": 22,
+    "category": "accessories"
+  },
+  {
+    "id": 42,
+    "name": "Air Fryer",
+    "description": "Digital air fryer with 8 preset cooking programs and 5-quart capacity",
+    "price": 115,
+    "category": "kitchen"
+  },
+  {
+    "id": 43,
+    "name": "Painting Set",
+    "description": "Acrylic painting set with brushes, canvases, and 24 colors",
+    "price": 47,
+    "category": "arts"
+  },
+  {
+    "id": 44,
+    "name": "Smart Watch",
+    "description": "Fitness smartwatch with heart rate monitor and GPS tracking",
+    "price": 185,
+    "category": "electronics"
+  },
+  {
+    "id": 45,
+    "name": "Bath Towel Set",
+    "description": "Luxury cotton bath towels, set of 6 with matching hand towels",
+    "price": 64,
+    "category": "home"
+  },
+  {
+    "id": 46,
+    "name": "Guitar Strings",
+    "description": "Premium acoustic guitar strings, pack of 3 sets",
+    "price": 18,
+    "category": "music"
+  },
+  {
+    "id": 47,
+    "name": "Blender",
+    "description": "High-speed blender with multiple settings for smoothies and soups",
+    "price": 98,
+    "category": "kitchen"
+  },
+  {
+    "id": 48,
+    "name": "Cat Scratching Post",
+    "description": "Multi-level cat tree with scratching posts and hanging toys",
+    "price": 85,
+    "category": "pets"
+  },
+  {
+    "id": 49,
+    "name": "Camping Tent",
+    "description": "4-person waterproof tent with easy setup and carry bag",
+    "price": 135,
+    "category": "outdoor"
+  },
+  {
+    "id": 50,
+    "name": "Mechanical Keyboard",
+    "description": "RGB backlit mechanical keyboard with blue switches",
+    "price": 125,
+    "category": "electronics"
+  },
+  {
+    "id": 51,
+    "name": "Gaming Laptop",
+    "description": "15.6-inch gaming laptop with RTX 4060 graphics and 16GB RAM",
+    "price": 1299,
+    "category": "computers"
+  },
+  {
+    "id": 52,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with adjustable DPI settings",
+    "price": 35,
+    "category": "computer accessories"
+  },
+  {
+    "id": 53,
+    "name": "USB-C Hub",
+    "description": "7-in-1 USB-C hub with HDMI, USB 3.0, and SD card reader",
+    "price": 42,
+    "category": "computer accessories"
+  },
+  {
+    "id": 54,
+    "name": "Smartphone",
+    "description": "5G smartphone with 6.7-inch AMOLED display and 128GB storage",
+    "price": 699,
+    "category": "phones"
+  },
+  {
+    "id": 55,
+    "name": "Phone Screen Protector",
+    "description": "Tempered glass screen protector with anti-fingerprint coating, pack of 2",
+    "price": 12,
+    "category": "phone accessories"
+  },
+  {
+    "id": 56,
+    "name": "Laptop Stand",
+    "description": "Adjustable aluminum laptop stand with ergonomic design",
+    "price": 38,
+    "category": "computer accessories"
+  },
+  {
+    "id": 57,
+    "name": "Desktop Computer",
+    "description": "Gaming desktop PC with Intel i7 processor and 32GB RAM",
+    "price": 1599,
+    "category": "computers"
+  },
+  {
+    "id": 58,
+    "name": "Wireless Charger",
+    "description": "Fast wireless charging pad compatible with all Qi-enabled devices",
+    "price": 28,
+    "category": "phone accessories"
+  },
+  {
+    "id": 59,
+    "name": "External Hard Drive",
+    "description": "2TB portable external hard drive with USB 3.0 connectivity",
+    "price": 79,
+    "category": "computer accessories"
+  },
+  {
+    "id": 60,
+    "name": "Budget Smartphone",
+    "description": "Affordable smartphone with dual camera and 64GB storage",
+    "price": 249,
+    "category": "phones"
+  },
+  {
+    "id": 61,
+    "name": "Webcam",
+    "description": "1080p HD webcam with built-in microphone for video calls",
+    "price": 65,
+    "category": "computer accessories"
+  },
+  {
+    "id": 62,
+    "name": "Phone Gimbal",
+    "description": "3-axis smartphone stabilizer for smooth video recording",
+    "price": 89,
+    "category": "phone accessories"
+  },
+  {
+    "id": 63,
+    "name": "MacBook Air",
+    "description": "13-inch MacBook Air with M2 chip and 256GB SSD",
+    "price": 1199,
+    "category": "computers"
+  },
+  {
+    "id": 64,
+    "name": "Phone Car Mount",
+    "description": "Magnetic car phone holder with 360-degree rotation",
+    "price": 19,
+    "category": "phone accessories"
+  },
+  {
+    "id": 65,
+    "name": "Monitor",
+    "description": "27-inch 4K UHD monitor with HDR support and slim bezels",
+    "price": 349,
+    "category": "computer accessories"
+  },
+  {
+    "id": 66,
+    "name": "iPhone Case",
+    "description": "Silicone iPhone case with MagSafe compatibility",
+    "price": 45,
+    "category": "phone accessories"
+  },
+  {
+    "id": 67,
+    "name": "Chromebook",
+    "description": "14-inch Chromebook with touchscreen and 10-hour battery life",
+    "price": 399,
+    "category": "computers"
+  },
+  {
+    "id": 68,
+    "name": "RAM Memory",
+    "description": "16GB DDR4 RAM kit for desktop computers, 3200MHz",
+    "price": 68,
+    "category": "computer accessories"
+  },
+  {
+    "id": 69,
+    "name": "Tablet",
+    "description": "10-inch Android tablet with stylus pen and 128GB storage",
+    "price": 329,
+    "category": "phones"
+  },
+  {
+    "id": 70,
+    "name": "SSD Drive",
+    "description": "1TB internal SSD with fast read/write speeds for laptops",
+    "price": 95,
+    "category": "computer accessories"
+  },
+  {
+    "id": 71,
+    "name": "Power Bank",
+    "description": "20000mAh portable charger with dual USB ports and USB-C",
+    "price": 38,
+    "category": "phone accessories"
+  },
+  {
+    "id": 72,
+    "name": "Graphics Card",
+    "description": "NVIDIA RTX 4070 graphics card with 12GB VRAM",
+    "price": 599,
+    "category": "computer accessories"
+  },
+  {
+    "id": 73,
+    "name": "Premium Smartphone",
+    "description": "Flagship smartphone with triple camera system and 256GB storage",
+    "price": 999,
+    "category": "phones"
+  },
+  {
+    "id": 74,
+    "name": "Laptop Sleeve",
+    "description": "Water-resistant laptop sleeve for 13-15 inch laptops",
+    "price": 24,
+    "category": "computer accessories"
+  },
+  {
+    "id": 75,
+    "name": "Selfie Ring Light",
+    "description": "LED ring light with phone holder for selfies and video calls",
+    "price": 32,
+    "category": "phone accessories"
+  },
+  {
+    "id": 76,
+    "name": "2-in-1 Laptop",
+    "description": "Convertible touchscreen laptop with 360-degree hinge and stylus",
+    "price": 899,
+    "category": "computers"
+  },
+  {
+    "id": 77,
+    "name": "Cooling Pad",
+    "description": "Laptop cooling pad with adjustable fans and USB hub",
+    "price": 29,
+    "category": "computer accessories"
+  },
+  {
+    "id": 78,
+    "name": "Phone Tripod",
+    "description": "Flexible phone tripod with Bluetooth remote shutter",
+    "price": 26,
+    "category": "phone accessories"
+  },
+  {
+    "id": 79,
+    "name": "Gaming Monitor",
+    "description": "32-inch curved gaming monitor with 165Hz refresh rate",
+    "price": 449,
+    "category": "computer accessories"
+  },
+  {
+    "id": 80,
+    "name": "Smartwatch",
+    "description": "Smartwatch with fitness tracking and smartphone notifications",
+    "price": 199,
+    "category": "phones"
+  },
+  {
+    "id": 81,
+    "name": "Gaming Laptop Pro",
+    "description": "High-end gaming laptop with RTX 4070, 32GB RAM, and 1TB SSD",
+    "price": 1899,
+    "category": "computers"
+  },
+  {
+    "id": 82,
+    "name": "Ultrabook Laptop",
+    "description": "Lightweight ultrabook with long battery life and full HD display",
+    "price": 1299,
+    "category": "computers"
+  },
+  {
+    "id": 83,
+    "name": "Office Desktop PC",
+    "description": "Efficient desktop PC for office work with Intel i5 CPU and 16GB RAM",
+    "price": 799,
+    "category": "computers"
+  },
+  {
+    "id": 84,
+    "name": "Women Summer Dress",
+    "description": "Floral patterned cotton dress, perfect for summer outings",
+    "price": 55,
+    "category": "clothing"
+  },
+  {
+    "id": 85,
+    "name": "Men Casual Shirt",
+    "description": "Comfortable casual shirt made of breathable cotton",
+    "price": 40,
+    "category": "clothing"
+  },
+  {
+    "id": 86,
+    "name": "Evening Gown",
+    "description": "Elegant evening gown suitable for formal events",
+    "price": 150,
+    "category": "clothing"
+  },
+  {
+    "id": 87,
+    "name": "Sports T-Shirt",
+    "description": "Moisture-wicking sports t-shirt ideal for workouts and running",
+    "price": 30,
+    "category": "sports"
+  },
+  {
+    "id": 88,
+    "name": "Yoga Pants",
+    "description": "Stretchable yoga pants with high waist for comfort and flexibility",
+    "price": 45,
+    "category": "fitness"
+  },
+  {
+    "id": 89,
+    "name": "Smartphone Pro Max",
+    "description": "Flagship smartphone with AMOLED display and triple camera system",
+    "price": 999,
+    "category": "phones"
+  },
+  {
+    "id": 90,
+    "name": "Budget Laptop",
+    "description": "Affordable laptop with 8GB RAM and 256GB SSD for students",
+    "price": 499,
+    "category": "computers"
+  },
+  {
+    "id": 91,
+    "name": "Bluetooth Headphones",
+    "description": "Wireless over-ear headphones with noise cancellation",
+    "price": 120,
+    "category": "electronics"
+  },
+  {
+    "id": 92,
+    "name": "Leather Jacket",
+    "description": "Genuine leather jacket with zipper closure, stylish and warm",
+    "price": 200,
+    "category": "clothing"
+  },
+  {
+    "id": 93,
+    "name": "Formal Office Shoes",
+    "description": "Black leather shoes suitable for business meetings and office",
+    "price": 130,
+    "category": "formal"
+  },
+  {
+    "id": 94,
+    "name": "Casual Sneakers Women",
+    "description": "Comfortable casual sneakers for everyday city wear",
+    "price": 70,
+    "category": "casual"
+  },
+  {
+    "id": 95,
+    "name": "Trail Hiking Shoes",
+    "description": "Rugged hiking shoes with waterproof material and grip soles",
+    "price": 150,
+    "category": "outdoor"
+  },
+  {
+    "id": 96,
+    "name": "Smartwatch Fitness",
+    "description": "Smartwatch with heart rate, steps tracker and sleep monitoring",
+    "price": 180,
+    "category": "electronics"
+  },
+  {
+    "id": 97,
+    "name": "Wireless Keyboard",
+    "description": "Ergonomic wireless keyboard with silent keys for home and office",
+    "price": 40,
+    "category": "computer accessories"
+  },
+  {
+    "id": 98,
+    "name": "Desk Organizer",
+    "description": "Multi-compartment desk organizer to keep office items tidy",
+    "price": 25,
+    "category": "stationery"
+  },
+  {
+    "id": 99,
+    "name": "Gaming Chair",
+    "description": "Ergonomic gaming chair with lumbar support and adjustable height",
+    "price": 250,
+    "category": "furniture"
+  },
+  {
+    "id": 100,
+    "name": "Men Formal Suit",
+    "description": "Two-piece formal suit for business events and special occasions",
+    "price": 350,
+    "category": "formal"
+  },
+  {
+    "id": 101,
+    "name": "Women Handbag",
+    "description": "Elegant leather handbag for everyday use or office",
+    "price": 120,
+    "category": "accessories"
+  },
+  {
+    "id": 102,
+    "name": "Gaming Mouse Pro",
+    "description": "High-precision gaming mouse with adjustable DPI and RGB lights",
+    "price": 60,
+    "category": "computer accessories"
+  },
+  {
+    "id": 103,
+    "name": "Laptop Backpack",
+    "description": "Durable backpack with laptop compartment and multiple pockets",
+    "price": 55,
+    "category": "accessories"
+  },
+  {
+    "id": 104,
+    "name": "4K Monitor",
+    "description": "27-inch 4K UHD monitor with HDR support and slim bezels",
+    "price": 399,
+    "category": "computer accessories"
+  },
+  {
+    "id": 105,
+    "name": "Men Running Shorts",
+    "description": "Lightweight running shorts with breathable material",
+    "price": 25,
+    "category": "sports"
+  },
+  {
+    "id": 106,
+    "name": "Women Running Shoes",
+    "description": "Comfortable running shoes for daily exercise and jogging",
+    "price": 120,
+    "category": "sports"
+  },
+  {
+    "id": 107,
+    "name": "Portable Power Bank",
+    "description": "10000mAh power bank with fast charging for phones and tablets",
+    "price": 35,
+    "category": "phone accessories"
+  },
+  {
+    "id": 108,
+    "name": "Noise-Cancelling Earbuds",
+    "description": "In-ear wireless earbuds with deep bass and noise cancellation",
+    "price": 85,
+    "category": "electronics"
+  },
+  {
+    "id": 109,
+    "name": "Bluetooth Speaker Mini",
+    "description": "Portable mini Bluetooth speaker with 10-hour battery life",
+    "price": 40,
+    "category": "electronics"
+  },
+  {
+    "id": 110,
+    "name": "Tablet Pro",
+    "description": "High-end tablet with stylus support and 256GB storage",
+    "price": 799,
+    "category": "computers"
+  },
+  {
+    "id": 111,
+    "name": "Digital Camera",
+    "description": "DSLR camera with 24MP sensor and interchangeable lenses",
+    "price": 699,
+    "category": "electronics"
+  },
+  {
+    "id": 112,
+    "name": "Men Casual Jeans",
+    "description": "Slim fit casual jeans made of stretchable denim",
+    "price": 45,
+    "category": "clothing"
+  },
+  {
+    "id": 113,
+    "name": "Women Blouse",
+    "description": "Lightweight and stylish blouse suitable for office and casual wear",
+    "price": 35,
+    "category": "clothing"
+  },
+  {
+    "id": 114,
+    "name": "Wireless Router",
+    "description": "High-speed Wi-Fi router with dual-band support and parental control",
+    "price": 120,
+    "category": "electronics"
+  },
+  {
+    "id": 115,
+    "name": "Men Winter Coat",
+    "description": "Warm winter coat made of wool blend, ideal for cold climates",
+    "price": 180,
+    "category": "clothing"
+  },
+  {
+    "id": 116,
+    "name": "Women Winter Boots",
+    "description": "Insulated waterproof boots for winter and outdoor activities",
+    "price": 150,
+    "category": "outdoor"
+  },
+  {
+    "id": 117,
+    "name": "Gaming Console",
+    "description": "Next-gen gaming console with 4K support and fast load times",
+    "price": 499,
+    "category": "electronics"
+  },
+  {
+    "id": 118,
+    "name": "Smart Light Bulb",
+    "description": "Wi-Fi enabled smart bulb with adjustable colors and brightness",
+    "price": 25,
+    "category": "home"
+  },
+  {
+    "id": 119,
+    "name": "Desk Chair Ergonomic",
+    "description": "Comfortable ergonomic desk chair with adjustable height and lumbar support",
+    "price": 180,
+    "category": "furniture"
+  },
+  {
+    "id": 120,
+    "name": "Women Sneakers",
+    "description": "Stylish everyday sneakers for casual outings and comfort",
+    "price": 70,
+    "category": "casual"
   }
+
+
 
 ]
